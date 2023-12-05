@@ -16,5 +16,6 @@ F1-score
 ROC curve
 Area under the curve (AUC)
 
+**Result**
 The project employs 5-fold cross-validation to assess the classification performance of both decision tree and random forest classifiers. The comparative analysis aims to determine which classifier offers superior performance in distinguishing between Malignant and Benign tumors. Comprehensive evaluation metrics, including confusion matrix, sensitivity, specificity, total accuracy, F1-score, ROC curve, and area under the curve,is provided in this project to offer a nuanced understanding of the model performances.
 
